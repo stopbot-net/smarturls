@@ -263,7 +263,7 @@ class B4code{
 		}
 	</script>
 </html>
-        <?
+        <?php
     }
     public function respondHtml($message){
         $getRespond = file_get_contents("template/message.html");
