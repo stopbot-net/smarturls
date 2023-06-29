@@ -12,6 +12,7 @@ SmartURLs is a project that allows you to manage smart URLs in your web applicat
 - Redirect users to different destinations based on the defined rules.
 - Support for URL rewriting using regular expressions.
 - Easy configuration of rules and actions through a configuration file.
+- Controlled by the stopbot panel.
 
 ## Installation
 
