@@ -2,7 +2,6 @@
 
 [![License](https://img.shields.io/badge/license-CC0%201.0%20Universal-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub Issues](https://img.shields.io/github/issues/stopbot-net/smarturls.svg)](https://github.com/stopbot-net/smarturls/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/stopbot-net/smarturls/pulls)
 
 A smart URL refers to a URL that has been enhanced with various features that provide additional advantages. These features may include visitor tracking, customized display based on geographical location, redirection to different links based on the device used, advanced analytics, or the use of specific parameters to send additional data to the destination page. Smart URLs allow users to optimize and manage user experiences better and gain deeper insights into their users.
 
