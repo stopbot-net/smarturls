@@ -57,4 +57,9 @@ $Apikey = "________________________________";
 [https://docs.stopbot.net/api-documentation/smart-urls](https://docs.stopbot.net/api-documentation/smart-urls)
 
 ## Full Integration Guide
+
 [https://docs.stopbot.net/service-guides/stopbot/smart-urls](https://docs.stopbot.net/service-guides/stopbot/smart-urls)
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
