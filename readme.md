@@ -23,7 +23,7 @@ git clone https://github.com/stopbot-net/smarturls.git
 ```
 cd smarturls
 ```
-3. Edit config.php then change with your APIKey, [Click Here](https://stopbot.net/apikey) for APIKey
+3. Edit config.php then change with your APIKey, [Click Here](https://r.stopbot.net/cHQzup) for APIKey
 ```
 <?php
 /*
@@ -47,17 +47,17 @@ contact : t.me @stopbotnet
 #Put your Apikey here.
 $Apikey = "________________________________";
 ```
-4. You can create Shortlinks / SmartURLs in our control panel, [Click Here](https://docs.stopbot.net/panel-guides/services/stopbot/smart-urls) for details.
-5. To access the results of the Shortlinks / SmartURLs, please open https://domain/keyname or you can view them in our control panel, [Click Here](https://docs.stopbot.net/panel-guides/services/stopbot/smart-urls) for details.
-6. For information regarding visitor statistics, [Click Here](https://docs.stopbot.net/panel-guides/services/stopbot/smart-urls) for details.
+4. You can create Shortlinks / SmartURLs in our control panel, [Click Here](https://r.stopbot.net/1iqsGg) for details.
+5. To access the results of the Shortlinks / SmartURLs, please open https://domain/keyname or you can view them in our control panel, [Click Here](https://r.stopbot.net/1iqsGg) for details.
+6. For information regarding visitor statistics, [Click Here](https://r.stopbot.net/1iqsGg) for details.
 
 ## API Documentation
 
-[https://docs.stopbot.net/api-documentation/smart-urls](https://docs.stopbot.net/api-documentation/smart-urls)
+[https://r.stopbot.net/9bpxqx](https://r.stopbot.net/9bpxqx)
 
 ## Full Integration Guide
 
-[https://docs.stopbot.net/service-guides/stopbot/smart-urls](https://docs.stopbot.net/service-guides/stopbot/smart-urls)
+[https://r.stopbot.net/FHNcSk](https://r.stopbot.net/FHNcSk)
 
 ## License
 
