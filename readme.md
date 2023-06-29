@@ -24,7 +24,7 @@ git clone https://github.com/stopbot-net/smarturls.git
 ```
 cd smarturls
 ```
-3.Edit config.php then change with your APIKey, [Click Here](https://stopbot.net/apikey) for APIKey
+3. Edit config.php then change with your APIKey, [Click Here](https://stopbot.net/apikey) for APIKey
 ```
 <?php
 /*
