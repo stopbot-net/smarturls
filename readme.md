@@ -55,3 +55,6 @@ $Apikey = "________________________________";
 ## API Documentation
 
 [https://docs.stopbot.net/api-documentation/smart-urls](https://docs.stopbot.net/api-documentation/smart-urls)
+
+## Full Integration Guide
+[https://docs.stopbot.net/service-guides/stopbot/smart-urls](https://docs.stopbot.net/service-guides/stopbot/smart-urls)
