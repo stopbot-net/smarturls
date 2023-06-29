@@ -4,7 +4,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/stopbot-net/smarturls.svg)](https://github.com/stopbot-net/smarturls/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/stopbot-net/smarturls/pulls)
 
-SmartURLs is a project that allows you to manage smart URLs in your web application. With SmartURLs, you can create and manage dynamic links that redirect users to different pages based on your defined rules.
+A smart URL refers to a URL that has been enhanced with various features that provide additional advantages. These features may include visitor tracking, customized display based on geographical location, redirection to different links based on the device used, advanced analytics, or the use of specific parameters to send additional data to the destination page. Smart URLs allow users to optimize and manage user experiences better and gain deeper insights into their users.
 
 ## Features
 
