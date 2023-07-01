@@ -9,8 +9,7 @@ A smart URL refers to a URL that has been enhanced with various features that pr
 
 - Create smart URLs with customizable rules and actions.
 - Redirect users to different destinations based on the defined rules.
-- Support for URL rewriting using regular expressions.
-- Easy configuration of rules and actions through a configuration file.
+- Easy configuration of rules.
 - Controlled by the stopbot panel.
 
 ## Installation
