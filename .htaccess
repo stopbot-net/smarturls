@@ -1,4 +1,4 @@
-Options +FollowSymLinks -MultiViews
+# Options +FollowSymLinks -MultiViews # This command is sometimes not supported due to several factors. 
 RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} !-f
