@@ -35,8 +35,10 @@ class B4code{
         $ch = curl_init();
 		curl_setopt($ch, CURLOPT_URL, $this->APILocation."/api/shorterlink?apikey=".$this->apikey."&ip=".$this->Ip."&keyname=".$keyname."&ua=".urlencode($_SERVER['HTTP_USER_AGENT'])."&url=".urlencode($_SERVER['REQUEST_URI'])."&".rand(1,1000000));
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
-        curl_setopt($ch, CURLOPT_ENCODING, 'gzip, deflate');
+        	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+        	curl_setopt($ch, CURLOPT_ENCODING, 'gzip, deflate');
+        	curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0); # In some versions of PHP, SSL verification may be required for the PHP cURL function.
+        	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0); #
 		$response = curl_exec($ch);
         switch(true){
             case ($response):
@@ -99,8 +101,10 @@ class B4code{
         $ch = curl_init();
 		curl_setopt($ch, CURLOPT_URL, $this->APILocation."/api/shorterlink?apikey=".$this->apikey."&ip=".$this->Ip."&keyname=".$keyname."&js=1&".rand(1,1000000));
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
-        curl_setopt($ch, CURLOPT_ENCODING, 'gzip, deflate');
+        	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+        	curl_setopt($ch, CURLOPT_ENCODING, 'gzip, deflate');
+        	curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0); # In some versions of PHP, SSL verification may be required for the PHP cURL function.
+	    	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0); # 
 		$response = curl_exec($ch);
         switch(true){
             case ($response):
