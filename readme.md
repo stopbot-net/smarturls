@@ -12,6 +12,15 @@ A smart URL refers to a URL that has been enhanced with various features that pr
 - Easy configuration of rules.
 - Controlled by the stopbot panel.
 
+## Require
+- Apache
+- PHP (We achieve optimal performance using PHP version 7.4.1.)
+- PHP-CURL
+
+## We achieve optimal performance
+- Apache 2.4.9
+- PHP version 7.4.1
+
 ## Installation
 
 1. Clone this repository to your local machine:
