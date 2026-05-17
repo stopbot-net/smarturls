@@ -1,3 +1,0 @@
-vendor/
-lib/mailer/logs/*.log
-lib/mailer/logs/*.bak
